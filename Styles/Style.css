@@ -417,6 +417,7 @@ form button:hover {
 .affichAgents {
   margin-top: 8rem;
   padding: 3rem;
+  overflow-x: scroll;
 }
 
 /* FOOTER */

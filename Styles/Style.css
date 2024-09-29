@@ -420,7 +420,7 @@ form button:hover {
 }
 
 .affichAgents table {
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 /* FOOTER */

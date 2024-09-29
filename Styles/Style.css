@@ -417,6 +417,9 @@ form button:hover {
 .affichAgents {
   margin-top: 8rem;
   padding: 3rem;
+}
+
+.affichAgents table {
   overflow-x: scroll;
 }
 

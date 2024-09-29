@@ -1,11 +1,11 @@
 <?php
 
-    $host="localhost:8080";
-    $username = "root";
-    $db="dasod";
-    // $pass="Vg#OPyn27";
-    // $username = "u934575834_dasod_admin001";
-    // $db="u934575834_dasod_bdd";
+    // $host="localhost:8080";
+    // $username = "root";
+    // $db="dasod";
+    $pass="Vg#OPyn27";
+    $username = "u934575834_dasod_admin001";
+    $db="u934575834_dasod_bdd";
 
     try
     {

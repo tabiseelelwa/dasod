@@ -15,25 +15,22 @@
         <section class="contact">
             <div class="container contact__container">
                 <aside class="contact__aside">
-                    <div class="aside__image">
-                        <img src="Images/electro3.jpg">
-                    </div>
                     <h2>Contactez-nous</h2>
                     <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi error placeat, nihil beatae eligendi quaerat officiis deleniti vel rem, assumenda inventore voluptates repellendus, neque delectus. Accusamus quae praesentium necessitatibus quos.
+                        Vous avez une préoccupation, une suggestion ou un message pour nous ? Contactez-nous !!
                     </p>
                     <ul class="contact__details">
                         <li>
                             <i class="fa fa-phone-times"></i>
-                            <h5>+243 822 077 545</h5>
+                            <h5>+243 998 060 923</h5>
                         </li>
                         <li>
                             <i class="fa fa-enveloppe"></i>
-                            <h5>esubetabiseelelwa@gmail.com</h5>
+                            <h5>coordination@dasod-fpm.org</h5>
                         </li>
                         <li>
-                            <i class="fa fa-adress"></i>
-                            <h5>26, av. NGUMA</h5>
+                            <!-- <i class="fa fa-adress"></i>
+                            <h5>26, av. NGUMA</h5> -->
                         </li>
                     </ul>
                     <ul class="contact__socials">

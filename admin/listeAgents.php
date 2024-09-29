@@ -26,7 +26,7 @@
     <body>
     <?php require_once('../Pages/navbar.php')?>
 
-    <div class="affichAgents container">
+    <div class="affichAgents">
         <h1>Liste des agents inscrits</h1>
         <table class="table table-striped">
             <thead>

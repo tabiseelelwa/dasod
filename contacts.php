@@ -33,12 +33,12 @@
                             <h5>26, av. NGUMA</h5> -->
                         </li>
                     </ul>
-                    <ul class="contact__socials">
+                    <!-- <ul class="contact__socials">
                         <li><a href=""><i class="fa fa-facebook"></i></a></li>
                         <li><a href=""><i class="fa fa-instagram"></i></a></li>
                         <li><a href=""><i class="fa fa-twitter"></i></a></li>
                         <li><a href=""><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
+                    </ul> -->
                 </aside>
 
                 <form class="contact__form">

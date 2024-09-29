@@ -1,8 +1,8 @@
 <nav>
     <div class="container nav__container">
-        <a href="/dasod-fpm"><h4>DASOD-FPM</h4></a>
+        <a href="/"><h4>DASOD-FPM</h4></a>
         <ul class="nav__menu">
-            <li><a href="/dasod-fpm">Accueil</a></li>
+            <li><a href="/">Accueil</a></li>
             <li><a href="formations.php">Nos formations</a></li>
             <li><a href="inscription.php">Inscription</a></li>
             <li><a href="contacts.php">contacts</a></li>

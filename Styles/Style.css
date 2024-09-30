@@ -350,7 +350,7 @@ form .autres_forms {
   gap: 0.7rem;
 }
 
-select {
+form .identite select {
   padding: 0.5rem;
 }
 

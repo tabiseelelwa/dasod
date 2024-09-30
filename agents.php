@@ -86,12 +86,15 @@
                 <input type="text" name="postnom" placeholder="Postnom">
                 <input type="text" name="prenom" placeholder="Prénom">
                 <select name="sexe" id="">
+                    <option >Quel est votre sexe</option>
                     <option value="Masculin">Masculin</option>
                     <option value="Féminin">Féminin</option>
                 </select>
                 <select name="etatCivil" id="">
+                    <option >Votre état civil</option>
                     <option value="Célibataire">Célibataire</option>
-                    <option value="Féminin">Féminin</option>
+                    <option value="Marié.e">Marié.e</option>
+                    <option value="Veuf.ve">Veuf.ve</option>
                 </select>
                 <input type="text" name="lieuNaiss" placeholder="Lieu de naissance">
                 <input type="text" name="dateNaiss" placeholder="Date de naissance">

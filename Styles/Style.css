@@ -349,6 +349,9 @@ form .autres_forms {
   flex-direction: column;
   gap: 0.7rem;
 }
+form .identite select {
+  padding: 0.5rem;
+}
 
 form .identite input,
 form .identite select,

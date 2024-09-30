@@ -351,6 +351,7 @@ form .autres_forms {
 }
 
 form .identite input,
+form .identite select,
 form .etudes input,
 form .autres_forms input {
   padding: 0.5rem;

@@ -85,13 +85,47 @@
                 <input type="text" name="nom" placeholder="Nom">
                 <input type="text" name="postnom" placeholder="Postnom">
                 <input type="text" name="prenom" placeholder="Prénom">
-                <input type="text" name="sexe" placeholder="Sexe">
-                <input type="text" name="etatCivil" placeholder="Etat civil">
+                <select name="sexe" id="">
+                    <option value="Masculin">Masculin</option>
+                    <option value="Féminin">Féminin</option>
+                </select>
+                <select name="etatCivil" id="">
+                    <option value="Célibataire">Célibataire</option>
+                    <option value="Féminin">Féminin</option>
+                </select>
                 <input type="text" name="lieuNaiss" placeholder="Lieu de naissance">
                 <input type="text" name="dateNaiss" placeholder="Date de naissance">
-                <input type="text" name="provOrig" placeholder="Province d'origine">
+                <select name="provOrig" id="">
+                    <option >Choisir votre province d'origine</option>
+                    <option value="Bas-Uélé">Bas-Uélé</option>
+                    <option value="Equateur">Equateur</option>
+                    <option value="Haut-Katanga">Haut-Katanga</option>
+                    <option value="Haut-Lomami">Haut-Lomami</option>
+                    <option value="Haut-Uélé">Haut-Uélé</option>
+                    <option value="Ituri">Ituri</option>
+                    <option value="Kasaï">Kasaï</option>
+                    <option value="Kasaï Central">Kasaï Central</option>
+                    <option value="Kasaï Oriental">Kasaï Oriental</option>
+                    <option value="Kinshasa">Kinshasa</option>
+                    <option value="Kongo-Central">Kongo-Central</option>
+                    <option value="Kwango">Kwango</option>
+                    <option value="Kwilu">Kwilu</option>
+                    <option value="Lomami">Lomami</option>
+                    <option value="Lualaba">Lualaba</option>
+                    <option value="Maï-Ndombe">Maï-Ndombe</option>
+                    <option value="Maniema">Maniema</option>
+                    <option value="Mongala">Mongala</option>
+                    <option value="Nord-Kivu">Nord-Kivu</option>
+                    <option value="Nord-Ubangi">Nord-Ubangi</option>
+                    <option value="Sankuru">Sankuru</option>
+                    <option value="Sud-Kivu">Sud-Kivu</option>
+                    <option value="Sud-Ubangi">Sud-Ubangi</option>
+                    <option value="Tanganyika">Tanganyika</option>
+                    <option value="Tshopo">Tshopo</option>
+                    <option value="Tshuapa">Tshuapa</option>
+                </select>
                 <input type="text" name="adresse" placeholder="Adresse actuelle">
-                <input type="text" name="telephone" placeholder="Téléphone">
+                <input type="text" name="telephone" placeholder="Respectez ce format : +243 000000000">
                 <input type="text" name="email" placeholder="Email">
             </div>
 
